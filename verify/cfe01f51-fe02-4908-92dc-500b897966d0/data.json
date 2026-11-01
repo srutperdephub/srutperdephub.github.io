@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "line1": "SISTEM INFORMASI",
+    "line2": "SERTIFIKASI REGISTRASI UJI TIPE",
+    "logo": "/srutperdephub/verify/assets/uploads/logo.png",
+    "favicon": "/srutperdephub/verify/assets/uploads/favicon.png"
+  },
+  "title": "DATA SRUT",
+  "tab_title": "Sistem Sertifikasi Registrasi Uji Tipe | Kementrian Perhubungan",
+  "data_kendaraan": {
+    "no_srut": "799425/XI/SRUT-680/DJPD-SPD/11/2026",
+    "no_sk": "KP-DJPD 5412 TAHUN 2026",
+    "tgl_sk": "05 JULI 2026",
+    "nomor_rangka": "NHMFE71P1DK044555",
+    "nomor_mesin": "4D34TJ92832",
+    "merek": "MITSUBISHI / COLT DIESEL FE 71(4X2) M/T",
+    "jenis_kendaraan": "LIGHT TRUCK BOX",
+    "warna": "ORNAGE PUTIH",
+    "lampiran": []
+  },
+  "dimensi": {
+    "panjang_total": "4.590",
+    "lebar_total": "1.695",
+    "tinggi_total": "2.050",
+    "jarak_sumbu_1_2": "2.690",
+    "rear_overhang": "1.045",
+    "jarak_sumbu_2_3": "",
+    "front_overhang": "855",
+    "jarak_sumbu_3_4": ""
+  },
+  "karoseri": {
+    "jumlah_silinder": "4",
+    "isi_silinder": "3.908",
+    "panjang_box": "",
+    "daya_motor": "108 KW / 6.000 RPM",
+    "lebar_box": "",
+    "jumlah_tempat_duduk": "4",
+    "tinggi_box": "",
+    "rumah_badan": "",
+    "jbb_jbkb": "2.180 kg",
+    "jenis_angkutan": "ANGKUTAN KHUSUS / BARANG",
+    "jbi_jbki": "2.180 kg",
+    "bahan_bakar": "BENSIN",
+    "sudut_pergi": "16",
+    "pintu_keluar_darurat": "1",
+    "varian": "DIESEL FE 71",
+    "keterangan_bak": ""
+  },
+  "bentuk_fisik": {
+    "depan": "/srutperdephub/verify/cfe01f51-fe02-4908-92dc-500b897966d0/files/foto_depan-1793539541018-33320.jpeg",
+    "samping": "/srutperdephub/verify/cfe01f51-fe02-4908-92dc-500b897966d0/files/foto_samping-1793539541025-745126.jpeg",
+    "belakang": "/srutperdephub/verify/cfe01f51-fe02-4908-92dc-500b897966d0/files/foto_belakang-1793539541027-994111.jpeg"
+  },
+  "keterangan": {
+    "ban_s1": "195/65 R15",
+    "ban_s2": "195/65 R15",
+    "ban_s3": "",
+    "ban_s4": "",
+    "kekuatan_s1": "1.000",
+    "kekuatan_s2": "1.180",
+    "kekuatan_s3": "",
+    "kekuatan_s4": "",
+    "konfigurasi_sumbu": "1.1",
+    "kelas_jalan": "III",
+    "lebar_pintu_supir": "850",
+    "jarak_bangku": "450",
+    "berat_kosong": "1.580 kg",
+    "daya_angkut_barang": "360",
+    "daya_angkut_penumpang": "240"
+  },
+  "ceklist": {
+    "a": "SESUAI",
+    "b": "SESUAI",
+    "c": "SESUAI",
+    "d": "SESUAI",
+    "e": "SESUAI",
+    "f": "SESUAI",
+    "g": "SESUAI",
+    "h": "SESUAI",
+    "i": "SESUAI",
+    "j": "SESUAI",
+    "k": "SESUAI"
+  },
+  "footer": {
+    "alamat_title": "ALAMAT",
+    "alamat": "Jl.Medan Merdeka Barat No 8. Jakarta Pusat. DKI Jakarta 10110 - Indonesia",
+    "map_embed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15866.650048367146!2d106.822723!3d-6.175915!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f42b949bdca3%3A0xe84e3d2305bf84e9!2sJl.%20Medan%20Merdeka%20Barat%2C%20Gambir%2C%20Kecamatan%20Gambir%2C%20Kota%20Jakarta%20Pusat%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2010110%2C%20Indonesia!5e0!3m2!1sen!2sus!4v1788604722205!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\"></iframe>",
+    "tentang_title": "TENTANG KAMI",
+    "tentang": "Untuk Peningkatan Pelayanan Penerbitan Sertifkasi Registrasi Uji Tipe Kendaraan Bermotor, Kementerian Perhubungan Mengembangkan Sistem SRUT Rancang Bangun. Dimana Permohonan SRUT Dapat Diajukan Secara Online Dan Persyaratan Permohonan Sertifkasi Registrasi Uji Tipe Kendaraan Bermotor Dapat Dipelajari Pada Sistem Ini. Apabila Ada Pertanyaan Silahkan Menghubungi Email: Ujitipe@dephub.go.id",
+    "copyright": "© Copyright Kementerian Perhubungan RI. All Rights Reserved"
+  }
+}
