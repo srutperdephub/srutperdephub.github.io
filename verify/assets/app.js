@@ -137,7 +137,7 @@
   let combinedBytes = null, combinedUrl = null;
 
   if (window.pdfjsLib) {
-    pdfjsLib.GlobalWorkerOptions.workerSrc = 'assets/lib/pdfjs/pdf.worker.min.js';
+    pdfjsLib.GlobalWorkerOptions.workerSrc = '/verify/assets/lib/pdfjs/pdf.worker.min.js';
   }
 
   async function openViewer(list) {
