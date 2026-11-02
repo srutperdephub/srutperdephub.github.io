@@ -2,8 +2,8 @@
   "brand": {
     "line1": "SISTEM INFORMASI",
     "line2": "SERTIFIKASI REGISTRASI UJI TIPE",
-    "logo": "/srutperdephub/verify/assets/uploads/logo.png",
-    "favicon": "/srutperdephub/verify/assets/uploads/favicon.png"
+    "logo": "/verify/assets/uploads/logo.png",
+    "favicon": "/verify/assets/uploads/favicon.png"
   },
   "title": "DATA SRUT",
   "tab_title": "Sistem Sertifikasi Registrasi Uji Tipe | Kementrian Perhubungan",
@@ -47,9 +47,9 @@
     "keterangan_bak": ""
   },
   "bentuk_fisik": {
-    "depan": "/srutperdephub/verify/cfe01f51-fe02-4908-92dc-500b897966d0/files/foto_depan-1793539541018-33320.jpeg",
-    "samping": "/srutperdephub/verify/cfe01f51-fe02-4908-92dc-500b897966d0/files/foto_samping-1793539541025-745126.jpeg",
-    "belakang": "/srutperdephub/verify/cfe01f51-fe02-4908-92dc-500b897966d0/files/foto_belakang-1793539541027-994111.jpeg"
+    "depan": "/verify/cfe01f51-fe02-4908-92dc-500b897966d0/files/foto_depan-1793539541018-33320.jpeg",
+    "samping": "/verify/cfe01f51-fe02-4908-92dc-500b897966d0/files/foto_samping-1793539541025-745126.jpeg",
+    "belakang": "/verify/cfe01f51-fe02-4908-92dc-500b897966d0/files/foto_belakang-1793539541027-994111.jpeg"
   },
   "keterangan": {
     "ban_s1": "195/65 R15",
